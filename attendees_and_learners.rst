@@ -8,6 +8,12 @@ or followed the tutorial in their own time.
 Workshops
 =========
 
+Pycon Ireland in Dublin, 13th October 2014
+------------------------------------------
+
+* Dori Czapari
+
+
 DjangoCon US in Portland, 5th September 2014
 --------------------------------------------
 
@@ -45,7 +51,7 @@ DjangoCon Europe on The Île des Embiez, 16th May 2014
 * Alex Semenyuk (https://github.com/gtvblame)
 * Moritz Windelen
 * Marie-Cécile Gohier
-* Isabella Pezzini
+* Isabella Pezzin
 * Pavel Meshkoy (@rasstreli)
 
 Dutch Django Association Sprint in Amsterdam, 22nd February 2014
