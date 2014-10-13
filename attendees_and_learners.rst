@@ -8,7 +8,7 @@ or followed the tutorial in their own time.
 Workshops
 =========
 
-Pycon Ireland in Dublin, 13th October 2014
+Pycon Ireland in Dublin, 14th October 2014
 ------------------------------------------
 
 * Dori Czapari
